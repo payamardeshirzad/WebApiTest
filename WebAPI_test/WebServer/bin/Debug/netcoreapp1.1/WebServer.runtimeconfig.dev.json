@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Payam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Payam\\.nuget\\packages"
+    ]
+  }
+}
